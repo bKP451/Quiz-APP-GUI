@@ -3,7 +3,7 @@
 
 The Quiz questions are fetched from [OPEN TRIVIA DATABASE](https://opentdb.com/).
 
-[This is and ](https://github.com/bKP451/Quiz-APP-GUI/images/false.png)
+![This is and ](/images/false.png)
 
 The GUI is developed using Tkinter.
 
